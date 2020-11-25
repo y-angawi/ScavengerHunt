@@ -1,0 +1,14 @@
+#map {
+  position: relative;
+  text-align: center;
+}
+#target {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+#me {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
